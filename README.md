@@ -36,3 +36,6 @@ I want to track my progress, stay accountable, and build a portfolio that shows 
 - `projects.md` – planned cybersecurity and cloud projects
 - `notes/` – weekly study notes
 - `projects/` – hands-on project documentation
+## Featured Project
+### IAM and Least Privilege Project
+A beginner cloud security project focused on IAM, least privilege, MFA, access design, and security best practices.
