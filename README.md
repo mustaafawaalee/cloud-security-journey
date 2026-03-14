@@ -29,3 +29,10 @@ This repository is where I will document my learning, projects, notes, labs, and
 
 ## Why I Made This Repo
 I want to track my progress, stay accountable, and build a portfolio that shows my growth in cybersecurity and cloud security.
+## Repository Structure
+- `README.md` – overview of my cloud security journey
+- `security-plus-study-plan.md` – my Security+ study plan
+- `cloud-security-roadmap.md` – my roadmap into cloud security
+- `projects.md` – planned cybersecurity and cloud projects
+- `notes/` – weekly study notes
+- `projects/` – hands-on project documentation
