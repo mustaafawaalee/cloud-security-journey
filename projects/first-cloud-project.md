@@ -3,26 +3,39 @@
 ## Project Title
 Cloud Security Foundations Project
 
-## Goal
-Document my understanding of basic cloud security concepts and begin building a portfolio project.
+## Objective
+Build a strong understanding of the core security concepts used in cloud environments and document them in a professional way.
 
-## Topics Covered
-- Shared responsibility model
-- Identity and Access Management (IAM)
-- Multi-Factor Authentication (MFA)
-- Least privilege
-- Logging and monitoring
-- Data protection
+## Core Concepts
+### Shared Responsibility Model
+The cloud provider is responsible for securing the cloud infrastructure, while the customer is responsible for securing their data, identities, configurations, and access.
 
-## What I Learned
-- Add notes here
-- Add examples here
-- Add definitions here
+### Identity and Access Management (IAM)
+IAM controls who can access cloud resources and what actions they are allowed to perform.
 
-## Why This Matters
-These concepts are the foundation of cloud security and are important for securing users, systems, and data in cloud environments.
+### Multi-Factor Authentication (MFA)
+MFA adds another layer of protection by requiring more than just a password for access.
+
+### Least Privilege
+Users should only have the minimum access needed to perform their job duties.
+
+### Logging and Monitoring
+Logs and monitoring tools help detect suspicious behavior, track activity, and support investigations.
+
+### Data Protection
+Cloud environments should protect sensitive data through encryption, access control, backups, and secure storage settings.
+
+## Why This Project Matters
+These concepts form the baseline of cloud security. Understanding them is important before moving into hands-on AWS or Azure security work.
+
+## Skills I’m Building
+- Security documentation
+- Cloud security fundamentals
+- Technical writing
+- GitHub organization
+- Portfolio development
 
 ## Next Steps
-- Learn AWS or Azure fundamentals
-- Build a simple IAM-focused project
-- Keep documenting progress in GitHub
+- Add AWS or Azure examples
+- Build an IAM mini-project
+- Continue documenting labs and notes
