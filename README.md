@@ -2,11 +2,7 @@
 My path into cybersecurity and cloud security.
 # Cloud Security Journey
 
-Hi, I’m Mustaafa Waalee.
-
-I’m currently transitioning deeper into cybersecurity and working toward specializing in cloud security.
-
-This repository is where I will document my learning, projects, notes, labs, and progress.
+I’m Mustaafa Waalee, an aspiring cloud and cloud security professional building hands-on projects in Azure, Terraform, Linux, Docker, and IAM. This repository tracks my learning path, study notes, and project roadmap.
 
 ## Current Goals
 - Pass CompTIA Security+
