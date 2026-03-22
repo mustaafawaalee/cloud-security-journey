@@ -1,5 +1,5 @@
 # cloud-security-journey
-My path into cybersecurity and cloud security.
+
 # Cloud Security Journey
 
 I’m Mustaafa Waalee, an aspiring cloud and cloud security professional building hands-on projects in Azure, Terraform, Linux, Docker, and IAM. This repository tracks my learning path, study notes, and project roadmap.
@@ -17,14 +17,18 @@ I’m Mustaafa Waalee, an aspiring cloud and cloud security professional buildin
 - Future labs and projects
 
 ## Planned Projects
-- Security+ notes and study tracker
-- IAM and least privilege project
-- Cloud security checklist project
-- Linux and networking notes
-- Python beginner security scripts
+
+- Azure VM Web Server Project
+- Terraform Azure VM Deployment
+- IAM and Least Privilege Lab
+- Linux and Networking Troubleshooting Lab
+- Docker Beginner App Project
+- GitHub Actions CI/CD Lab
 
 ## Why I Made This Repo
-I want to track my progress, stay accountable, and build a portfolio that shows my growth in cybersecurity and cloud security.
+
+I created this repository to track my progress, stay accountable, and document my transition into cloud and cloud security. My goal is to build hands-on projects that show practical skills in Azure, Linux, Terraform, IAM, Docker, and troubleshooting.
+
 ## Repository Structure
 - `README.md` – overview of my cloud security journey
 - `security-plus-study-plan.md` – my Security+ study plan
@@ -33,5 +37,19 @@ I want to track my progress, stay accountable, and build a portfolio that shows 
 - `notes/` – weekly study notes
 - `projects/` – hands-on project documentation
 ## Featured Project
+
+### Azure VM Web Server Project
+
+A hands-on cloud project where I will deploy and secure a Linux virtual machine in Azure, connect to it through SSH, install Nginx, and host a custom web page.
+
+**Skills demonstrated:**
+- Azure Virtual Machines
+- Network Security Groups
+- Linux administration
+- SSH
+- Nginx
+- Basic troubleshooting
+
+**Status:** In progress
 ### IAM and Least Privilege Project
 A beginner cloud security project focused on IAM, least privilege, MFA, access design, and security best practices.
