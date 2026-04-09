@@ -1,55 +1,53 @@
-# cloud-security-journey
-
 # Cloud Security Journey
 
-I’m Mustaafa Waalee, an aspiring cloud and cloud security professional building hands-on projects in Azure, Terraform, Linux, Docker, and IAM. This repository tracks my learning path, study notes, and project roadmap.
+## Overview
 
-## Current Goals
-- Pass CompTIA Security+
-- Learn GitHub and document my work
-- Build hands-on cybersecurity and cloud security projects
-- Develop skills in Linux, networking, Python, and cloud platforms
+I'm Mustaafa Waalee, an aspiring Cloud Engineer and Cloud Security Engineer with a background in IT support, cybersecurity studies, and hands-on technical troubleshooting. This repository documents my transition into cloud and cloud security through certifications, labs, security projects, and technical notes.
 
-## What I’m Working On
-- Security+ study plan
-- Cloud security roadmap
-- Beginner GitHub setup
-- Future labs and projects
+## Career Goal
 
-## Planned Projects
+My goal is to move into a Cloud Engineer or Cloud Security Engineer role by building real-world projects, strengthening my cloud administration skills, and documenting my work in a way that hiring managers can review.
 
-- Azure VM Web Server Project
-- Terraform Azure VM Deployment
-- IAM and Least Privilege Lab
-- Linux and Networking Troubleshooting Lab
-- Docker Beginner App Project
-- GitHub Actions CI/CD Lab
+## Current Focus
 
-## Why I Made This Repo
+* CompTIA Security+
+* Microsoft Azure AZ-104
+* Terraform Associate
+* AWS Solutions Architect Associate
 
-I created this repository to track my progress, stay accountable, and document my transition into cloud and cloud security. My goal is to build hands-on projects that show practical skills in Azure, Linux, Terraform, IAM, Docker, and troubleshooting.
+## Core Skills in Progress
+
+* Azure administration
+* Cloud security fundamentals
+* Identity and access management
+* Infrastructure as Code with Terraform
+* Linux fundamentals
+* Networking and security controls
+* Documentation and technical project write-ups
 
 ## Repository Structure
-- `README.md` – overview of my cloud security journey
-- `security-plus-study-plan.md` – my Security+ study plan
-- `cloud-security-roadmap.md` – my roadmap into cloud security
-- `projects.md` – planned cybersecurity and cloud projects
-- `notes/` – weekly study notes
-- `projects/` – hands-on project documentation
-## Featured Project
 
-### Azure VM Web Server Project
+* `notes/` — study notes and technical learning notes
+* `projects/` — project documentation and security checklists
+* `cloud-security-roadmap.md` — long-term learning and career roadmap
+* `security-plus-study-plan.md` — Security+ preparation plan
+* `projects.md` — current and planned hands-on projects
 
-A hands-on cloud project where I will deploy and secure a Linux virtual machine in Azure, connect to it through SSH, install Nginx, and host a custom web page.
+## Current Projects
 
-**Skills demonstrated:**
-- Azure Virtual Machines
-- Network Security Groups
-- Linux administration
-- SSH
-- Nginx
-- Basic troubleshooting
+* Azure VM / Web Server Lab
+* IAM Least Privilege Checklist
+* Cloud Security Roadmap
+* Security+ Study Plan
 
-**Status:** In progress
-### IAM and Least Privilege Project
-A beginner cloud security project focused on IAM, least privilege, MFA, access design, and security best practices.
+## Why This Repository Exists
+
+This repository serves as both a learning journal and a technical portfolio. It shows my progress, project work, and growing hands-on experience as I prepare for cloud and cloud security roles.
+
+## Next Steps
+
+* Build and document Azure infrastructure projects
+* Add Terraform-based deployments
+* Expand AWS architecture labs
+* Improve project diagrams and screenshots
+* Continue updating GitHub with weekly progress
